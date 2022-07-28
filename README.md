@@ -1,7 +1,7 @@
 # Codevita_Task
 
 
-I have completed my task of predicting the weight of a person based on his/her height by using Supervised learning. The reviews for the work are welcomed from your end.
+I have completed my task of predicting the weight of a person based on height by using Supervised learning. The reviews for the work are welcome.
 
 
 
